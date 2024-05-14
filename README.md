@@ -1,4 +1,5 @@
 # dynadapt
+```
 Dynamic loudness adaptation to even out human errors in mixing
 It uses BS.1770 loudness specification. 
 
@@ -23,3 +24,4 @@ options:
                         block crossfade value between 0 and 1
 
 This work is licensed under CC BY-NC-SA 4.0
+```
